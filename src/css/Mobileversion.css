@@ -1,0 +1,140 @@
+@media (max-width: 760px) {
+  #menuButtons {
+    display: none;
+    padding-left: 0px;
+  }
+  #dyk {
+    margin-left: 3% !important;
+    width: 94% !important;
+    padding: 4% !important;
+    height: 135px !important;
+  }
+  #StartNow {
+    margin-left: 0px !important;
+  }
+  #toGenerate {
+    margin-left: 0px !important;
+  }
+  #Sliderpos {
+    margin-left: 0px !important;
+    width: 95% !important;
+  }
+  #tabBtn {
+    width: 0px !important;
+    margin-left: 20% !important;
+    flex-direction: column !important;
+  }
+  #invest_learn {
+    display: none;
+  }
+  #scrollerA {
+    margin-left: 0px !important;
+    width: 100% !important;
+  }
+  #bdy_section {
+    width: auto !important;
+    height: 2350px !important;
+    border-bottom: 1px solid black !important;
+  }
+  #fyear {
+    margin-left: 0px !important;
+  }
+  #menuButton {
+    margin-left: 85px !important;
+    width: 125px !important;
+  }
+  #investText {
+    font-size: 13px !important;
+  }
+  #lumpSumdef {
+    font-size: 24px !important;
+  }
+  #Sip {
+    font-size: 24px !important;
+  }
+  #LumpSum {
+    font-size: 24px !important;
+  }
+  .MuiSlider-thumb {
+    width: 15px !important;
+    width: 23px !important;
+    border-radius: 15% !important;
+  }
+  #fyear,
+  #i_can_invest {
+    font-size: 22px !important;
+  }
+  #threebtns {
+    margin-left: 0px !important;
+  }
+  #fbtn,
+  #sbtn,
+  #tbtn {
+    width: 80px !important;
+    font-size: 25px !important;
+    height: 40px !important;
+  }
+  #empvalue {
+    width: 235px !important;
+    font-size: 21px !important;
+  }
+  #returntext {
+    margin-right: 70px !important;
+  }
+  #value_scroll {
+    font-size: 26px !important;
+  }
+  #btn_begin,
+  #btn_check {
+    height: 125px !important;
+    border-radius: 20px !important;
+  }
+  #learn_more {
+    border-top: 1px solid black !important;
+    padding-top: 60px !important;
+    margin-left: 0px !important;
+    width: 100% !important;
+  }
+  #video_block {
+    margin-top: 60px !important;
+  }
+  #plngrid {
+    padding-left: 40px !important;
+    width: 90% !important;
+  }
+  #fgoal {
+    margin-top: -20px !important;
+  }
+  #fgoaltext {
+    font-size: larger !important;
+  }
+  #caltext {
+    font-size: large !important;
+  }
+  #inputchamber {
+    margin-top: -32px !important;
+  }
+  #ham_icon {
+    padding-left: 20px !important;
+    width: 15% !important;
+    padding-right: 45px !important;
+    font-size: 30px !important;
+    padding-top: 30px !important;
+  }
+  #logo {
+    font-size: 25px !important;
+    left: 186px !important;
+    width: 83px !important;
+  }
+}
+
+/*solo inputbase explicit styling*/
+.MuiInputBase-input {
+  border-bottom: 2px solid blue !important;
+  border-top: 2px solid white !important;
+  border-right: 2px solid white !important;
+  border-left: 2px solid white !important;
+}
+#inputchamber {
+  align-items: baseline !important;
+}

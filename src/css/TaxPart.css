@@ -1,0 +1,179 @@
+#threebtns {
+  margin-left: 125px;
+  display: flex;
+  padding: 10px;
+}
+#fbtn {
+  width: 100px;
+  height: 60px;
+  background: #2462ed 0% 0% no-repeat padding-box;
+  border: 1px solid #2462ed;
+  border-radius: 60px;
+  color: white;
+  font-size: 30px;
+  opacity: 1;
+}
+#sbtn {
+  width: 100px;
+  height: 60px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #bec4cc;
+  border-radius: 60px;
+  font-size: 30px;
+  color: #bec4cc;
+  opacity: 1;
+}
+#tbtn {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #bec4cc;
+  border-radius: 60px;
+  opacity: 1;
+  width: 100px;
+  font-size: 30px;
+  color: #bec4cc;
+  height: 60px;
+}
+#sbtn:focus,
+#tbtn:focus,
+#fbtn:focus {
+  background: #2462ed 0% 0% no-repeat padding-box;
+  border: 1px solid #2462ed;
+  color: white;
+}
+#empvalue {
+  text-align: left;
+  font: normal normal 600 24px/33px Open Sans;
+  letter-spacing: 0px;
+  color: #333f52;
+  opacity: 1;
+  width: 200px;
+  font-size: 24px;
+}
+#totaltext {
+  text-align: right;
+  font: normal normal 600 34px/46px Open Sans;
+  letter-spacing: 0px;
+  color: #2462ed;
+  opacity: 1;
+  cursor: pointer;
+  font-size: 30px;
+}
+#returntext {
+  font-size: 25px;
+  text-align: right;
+  font: normal normal 600 24px/33px Open Sans;
+  letter-spacing: 0px;
+  color: #333f52;
+  opacity: 1;
+}
+#btn_begin {
+  background: #2462ed 0% 0% no-repeat padding-box;
+  border-radius: 2px;
+  opacity: 1;
+  width: 350px;
+  font-size: 27px;
+  text-transform: capitalize;
+  text-align: center;
+  font: normal normal bold 20px/44px Open Sans;
+  letter-spacing: 0px;
+  color: #ffffff;
+}
+#btn_check {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 2px solid #2462ed;
+  border-radius: 2px;
+  opacity: 1;
+  font-size: 27px;
+  text-transform: capitalize;
+  width: 350px;
+  text-align: center;
+  font: normal normal bold 20px/44px Open Sans;
+  letter-spacing: 0px;
+  color: #2462ed;
+}
+#learn_more {
+  margin-top: 35px;
+  width: 75%;
+  margin-left: 120px;
+}
+#learnText {
+  font-size: 37px !important;
+  font: normal normal bold 30px/41px Open Sans;
+  letter-spacing: 0px;
+  color: #333f52;
+  opacity: 1;
+  cursor: pointer;
+}
+#video_block {
+  margin-top: 20px;
+  width: 100%;
+}
+#bluechip {
+  text-align: left;
+  font: normal normal 600 20px/27px Open Sans;
+  letter-spacing: 0px;
+  color: #2462ed;
+  opacity: 1;
+  cursor: pointer;
+}
+#investmentsection {
+  background: #e8ecf4 0% 0% no-repeat padding-box;
+  opacity: 1;
+  padding-bottom: 120px;
+}
+#pln {
+  text-align: left;
+  font: normal normal bold 30px/41px Open Sans;
+  letter-spacing: 0px;
+  color: #333f52;
+  opacity: 1;
+}
+#plngrid {
+  padding-left: 125px;
+  padding-top: 60px;
+  width: 85%;
+  padding-bottom: 60px;
+}
+#calgrid {
+  background-color: white;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  height: 500px;
+}
+#caltext {
+  text-align: center;
+  font: normal normal normal 24px/42px Open Sans;
+  letter-spacing: 0px;
+  color: #333f52;
+  opacity: 1;
+}
+#textgrid {
+  margin-top: 30px;
+}
+#fgoal {
+  margin-top: -65px;
+}
+#fgoaltext {
+  text-align: left;
+  font: normal normal 600 28px/42px Open Sans;
+  letter-spacing: 0px;
+  color: #333f52;
+  opacity: 1;
+}
+#inputchamber {
+  display: flex;
+  margin-top: -80px;
+}
+#nextbtn {
+  background: #2462ed 0% 0% no-repeat padding-box;
+  opacity: 1;
+  border-radius: 0px;
+  text-transform: capitalize;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 170px;
+  height: 60px;
+  text-align: center;
+}
